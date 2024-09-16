@@ -1,0 +1,10 @@
+open3d
+numpy
+pandas
+seaborn
+matplotlib
+pyntcloud
+plotly
+scikit-learn
+torch
+torchmetrics
